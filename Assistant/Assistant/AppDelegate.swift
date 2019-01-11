@@ -20,7 +20,6 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         self.window?.rootViewController = vc
         self.window?.makeKeyAndVisible()
         
-        //Git测试
         
         //MARK: - 三方键盘swift版本6.1.1
         IQKeyboardManager.shared.enable = true
