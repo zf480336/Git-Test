@@ -1,0 +1,54 @@
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "06t-TY-yz2"; */
+"06t-TY-yz2.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "计划起运  2016-08-28"; ObjectID = "15c-GZ-M8y"; */
+"15c-GZ-M8y.text" = "计划起运  2016-08-28";
+
+/* Class = "UITextField"; placeholder = "请输入密码"; ObjectID = "55z-Ax-OJ1"; */
+"55z-Ax-OJ1.placeholder" = "请输入密码";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "6S9-P6-679"; */
+"6S9-P6-679.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "待发运"; ObjectID = "A34-TU-gLr"; */
+"A34-TU-gLr.text" = "待发运";
+
+/* Class = "UIButton"; normalTitle = "北京市朝阳区第一物流点"; ObjectID = "AFD-eD-abg"; */
+"AFD-eD-abg.normalTitle" = "北京市朝阳区第一物流点";
+
+/* Class = "UITextField"; placeholder = "🔍 搜索运单箱号信息"; ObjectID = "Gct-KQ-36y"; */
+"Gct-KQ-36y.placeholder" = "🔍 搜索运单箱号信息";
+
+/* Class = "UIViewController"; title = "MainViewController"; ObjectID = "GlY-wM-NnI"; */
+"GlY-wM-NnI.title" = "MainViewController";
+
+/* Class = "UITextField"; placeholder = "请输入用户名"; ObjectID = "ITq-ov-SWU"; */
+"ITq-ov-SWU.placeholder" = "请输入用户名";
+
+/* Class = "UILabel"; text = "煤炭"; ObjectID = "N2o-YC-T2N"; */
+"N2o-YC-T2N.text" = "煤炭";
+
+/* Class = "UILabel"; text = "吴亦凡"; ObjectID = "OWa-P7-b10"; */
+"OWa-P7-b10.text" = "吴亦凡";
+
+/* Class = "UILabel"; text = "铁运"; ObjectID = "eJ6-4E-dYe"; */
+"eJ6-4E-dYe.text" = "铁运";
+
+/* Class = "UIButton"; normalTitle = "已上班"; ObjectID = "f58-I3-W4W"; */
+"f58-I3-W4W.normalTitle" = "已上班";
+
+/* Class = "UILabel"; text = "欢迎登录物流助手"; ObjectID = "grf-0J-MaW"; */
+"grf-0J-MaW.text" = "欢迎登录物流助手";
+
+/* Class = "UIButton"; normalTitle = "铁运"; ObjectID = "hCQ-eF-2qe"; */
+"hCQ-eF-2qe.normalTitle" = "铁运";
+
+/* Class = "UILabel"; text = "托运人，鸿轩集团"; ObjectID = "nuO-nC-hcm"; */
+"nuO-nC-hcm.text" = "托运人，鸿轩集团";
+
+/* Class = "UILabel"; text = "合肥---北京"; ObjectID = "o00-77-0RU"; */
+"o00-77-0RU.text" = "合肥---北京";
+
+/* Class = "UIButton"; normalTitle = "登录"; ObjectID = "r36-U0-ccF"; */
+"r36-U0-ccF.normalTitle" = "登录";
