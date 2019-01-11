@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		253E48CA21E82DFF0075026F /* Test-1ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 253E48C921E82DFF0075026F /* Test-1ViewController.swift */; };
 		659B1216E009DDF0535B33A7 /* libPods-Assistant.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 360DD251931564634D0DEE8C /* libPods-Assistant.a */; };
 		8902F14F21AFCEDD003EB08F /* Order_Address_Cell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8902F14D21AFCEDC003EB08F /* Order_Address_Cell.swift */; };
 		8902F15021AFCEDD003EB08F /* Order_Address_Cell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8902F14E21AFCEDC003EB08F /* Order_Address_Cell.xib */; };
@@ -181,7 +180,6 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		253E48C921E82DFF0075026F /* Test-1ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Test-1ViewController.swift"; sourceTree = "<group>"; };
 		287EFF035236160FBFBBA141 /* Pods-Assistant.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Assistant.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Assistant/Pods-Assistant.debug.xcconfig"; sourceTree = "<group>"; };
 		360DD251931564634D0DEE8C /* libPods-Assistant.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-Assistant.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8902F14D21AFCEDC003EB08F /* Order_Address_Cell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Order_Address_Cell.swift; sourceTree = "<group>"; };
@@ -544,7 +542,6 @@
 		895E000421AB8B9900AF5A1A = {
 			isa = PBXGroup;
 			children = (
-				253E48C921E82DFF0075026F /* Test-1ViewController.swift */,
 				895E000F21AB8B9900AF5A1A /* Assistant */,
 				895E002421AB8B9B00AF5A1A /* AssistantTests */,
 				895E002F21AB8B9B00AF5A1A /* AssistantUITests */,
@@ -1215,7 +1212,6 @@
 				89FAE1DD21B5208300B7D49B /* AlreadyDetailController.swift in Sources */,
 				8960B19921AF8337008BAB73 /* M_Task_PayController.swift in Sources */,
 				89FAE1E321B60AC900B7D49B /* AlreadyCell.swift in Sources */,
-				253E48CA21E82DFF0075026F /* Test-1ViewController.swift in Sources */,
 				8902F14F21AFCEDD003EB08F /* Order_Address_Cell.swift in Sources */,
 				8973295221B645AD0053AB37 /* AddGoodCell.swift in Sources */,
 				89599F3021DC947000C62AC2 /* WayBillCell.swift in Sources */,
